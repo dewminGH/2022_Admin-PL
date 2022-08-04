@@ -6,4 +6,4 @@ if (!isset($_SESSION["username"])) // add your SESSION(username)
 }
 ?>
 
-add to admin.html & change it to php extension
+//add to admin.php 
