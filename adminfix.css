@@ -1,0 +1,69 @@
+h1,h3,h5{
+    display: inline !important;
+    color: #fff !important;
+}
+
+.topSegment{
+    background-color: #252526 !important;
+}
+
+.grid-row{
+    margin-top: 100px!important;
+}
+
+.box{
+    box-shadow: none !important;
+    border-color: #fff !important;
+}
+
+.footer{
+    color: red !important;
+    font-weight: bold;
+    margin-left: 40%;
+    position: fixed !important;
+    bottom: 0px !important;
+}
+.footerfix{
+    position: fixed !important;
+    bottom: 0px !important;
+}
+
+body{
+    background-color: #434343;
+}
+
+.label-seller,.label-delete,.label-product{
+    font-weight: bold;
+    color: black;
+    margin-left: 35%;
+    font-size: 30px;
+}
+
+.seller-reg{
+    display: none;
+}
+
+
+.segment-margin{
+    margin-top: 2% !important;
+}
+
+.delete-segment{
+    display: none;
+}
+
+.update-segment{
+    display: none;
+}
+
+.viewseller-segment{
+    display: none;
+}
+
+.vieworders-segment{
+    display: none;
+}
+
+.product-segment{
+    display: none;
+}
